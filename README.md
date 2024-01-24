@@ -1,5 +1,4 @@
 <h2 align="left">alert("Hello World!") My name is Richard and i'm a programmer student from Brazil</h2><img src="https://imgur.com/gNDaoFN.png" width="25px" height="25px"></img>
-<br>
 
 
 <div align="center">
