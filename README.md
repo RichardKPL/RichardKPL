@@ -1,4 +1,4 @@
-<h2 style="color:#dcdcaa">alert</h2><h2 style="color:#ffd709">(</h2><h2 style="color:#ce916a">"Hello World! My name is Richard and i'm a programmer student from Brazil"</h2><h2 style="color:#ffd709">)</h2><h2 style="color:white">;</h2>
+<h2><span style="color:#dcdcaa">alert</span><span style="color:#ffd709">(</span><span style="color:#ce916a">"Hello World! My name is Richard and i'm a programmer student from Brazil"</hspan><span style="color:#ffd709">)</span><span style="color:white">;</span></h2><img src="https://imgur.com/gNDaoFN.png" width="25px" height="25px"></img> </h2>
 ###
 
 <div align="center">
