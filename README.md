@@ -1,4 +1,4 @@
-<h2 align="left">alert("Hello World!") My name is Richard and i'm a programmer student from Brazil <img src="https://imgur.com/gNDaoFN.png" width="30px" height="30px"></img> </h2>
+<h2 align="left">alert("Hello World!") My name is Richard and i'm a programmer student from Brazil <img src="https://imgur.com/gNDaoFN.png" width="30px" height="30px" margin-top:"10px"></img> </h2>
 
 ###
 
