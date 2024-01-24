@@ -1,5 +1,4 @@
-<h2><span style="color:#dcdcaa">alert</span><span style="color:#ffd709">(</span><span style="color:#ce916a">"Hello World! My name is Richard and i'm a programmer student from Brazil"</hspan><span style="color:#ffd709">)</span><span style="color:white">;</span></h2><img src="https://imgur.com/gNDaoFN.png" width="25px" height="25px"></img> </h2>
-###
+\section*{{\color{#dcdcaa}alert}{\color{#ffd709}(}{\color{#ce916a}"Hello World! My name is Richard and I'm a programmer student from Brazil"{\color{#ffd709})}{\color{#ffffff};}}
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RichardKPL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
