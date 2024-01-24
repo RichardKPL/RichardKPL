@@ -41,7 +41,6 @@
 <br clear="both">
 
 <h4 align="left">Programming</h4>
-<br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -63,7 +62,7 @@
 </div>
 
 <br clear="both">
-<h3 align="left">Softwares</h3>
+<h4 align="left">Softwares</h4>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
