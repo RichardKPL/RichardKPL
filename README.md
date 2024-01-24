@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="210" width="180" src="https://imgur.com/4quVZcv.gif"  />
+<img align="right" height="210" width="50%" src="https://imgur.com/4quVZcv.gif"  />
 
 ###
 
