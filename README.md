@@ -26,8 +26,6 @@
 
 <h2 align="center">My portfolio:</h2>
 
-###
-
 <br clear="both">
 <h4 align="left">Currently, i don't have any project to show.</h4>
 
@@ -36,12 +34,12 @@
 <div align="left">
   <img height="500" src="https://imgur.com/Gr00D1Z.gif"  />
 </div>
-###
+
 <br clear="both">
-###
+
 <h2 align="left">🔥 Skills</h2>
-###
 <br clear="both">
+
 <h4 align="left">Programming</h4>
 <br clear="both">
 <div align="left">
@@ -53,11 +51,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
 </div>
-###
 <br clear="both">
 
 <h4 align="left">Tools & Frameworks</h4>
-###
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -65,10 +61,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
-###
+
 <br clear="both">
 <h3 align="left">Softwares</h3>
-###
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
@@ -76,4 +71,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
 </div>
-###
