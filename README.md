@@ -1,5 +1,4 @@
-<h2 align="left">alert("Hello World!") My name is Richard and i'm a programmer student from Brazil <img src="https://imgur.com/gNDaoFN.png" width="25px" height="25px"></img> </h2>
-
+<h2 style="color:#dcdcaa">alert</h2><h2 style="color:#ffd709">(</h2><h2 style="color:#ce916a">"Hello World! My name is Richard and i'm a programmer student from Brazil"</h2><h2 style="color:#ffd709">)</h2><h2 style="color:white">;</h2>
 ###
 
 <div align="center">
