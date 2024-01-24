@@ -1,5 +1,6 @@
-<h2 align="left">alert("Hello World!") My name is Richard and i'm a programmer student from Brazil</h2><img src="https://imgur.com/gNDaoFN.png" width="25px" height="25px"></img>
+<h2 align="left">alert("Hello World!") My name is Richard and i'm a programmer student from Brazil <img src="https://imgur.com/gNDaoFN.png" width="25px" height="25px"></img></h2>
 
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RichardKPL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
