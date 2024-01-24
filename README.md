@@ -1,4 +1,4 @@
-\section*{{\color{#dcdcaa}alert}{\color{#ffd709}(}{\color{#ce916a}"Hello World! My name is Richard and I'm a programmer student from Brazil"{\color{#ffd709})}{\color{#ffffff};}}
+<tspan fill="red">Hello</tspan>,
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RichardKPL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
