@@ -52,8 +52,6 @@
 
 <h4 align="left">Programming</h4>
 
-###
-
 <br clear="both">
 
 <div align="left">
