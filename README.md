@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">About Me:<br><br>I'm am 20 years old, currently living in Brazil, intermediate English level, currently i'm studying JS, Java and HTML, CSS in Oracle One, partnered with Alura Cursos Online.<br><br>In my free time i love to play videogames, and watch good movies like HP, LOTR, Star Wars and TV Series like Stargate or chilling with my Motorcycle.</p>
+<p align="left">About Me:<br><br>I'm am 20 years old, currently living in Brazil, intermediate English level, currently i'm studying JS, HTML andCSS in Oracle One, partnered with Alura Cursos Online.<br><br>In my free time i love to play videogames, and watch movies like HP, LOTR, Star Wars and TV Series like Stargate or chilling with my Motorcycle.</p>
 
 ###
 
