@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RichardKPL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RichardKPL&locale=en&hide_title=false&layout=compact&card_width=50%&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  
 </div>
 
 ###
@@ -16,6 +17,9 @@
   <a href="https://discord.gg/6d7wjNbZMN" target="_blank"><img align="center">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
+  <a <Hyperlink NavigateUri="mailto:richardkauapl@gmail.com"></Hyperlink>> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  /> </a>
+</div>
+
 </div>
 
 ###
