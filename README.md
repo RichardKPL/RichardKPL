@@ -12,7 +12,7 @@
 <div align="center">
 
   <a href="https://linkedin.com;in/richardkpl" target="_blank"><img align="center">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</img></a>
-  <a href="https://discord.gg/6d7wjNbZMN" target="_blank"><img align="center">  />   </a>
+  <a href="https://discord.gg/6d7wjNbZMN" target="_blank"><img align="center">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</img></a>
 </div>
 
 ###
