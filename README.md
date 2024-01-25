@@ -12,13 +12,13 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/richardkpl" target="_blank"><img align="center">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="Hope you enjoy my LinkedIn profile!"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Hope you enjoy my LinkedIn profile!"  />
   </a>
   <a href="https://discord.gg/6d7wjNbZMN" target="_blank"><img align="center">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="My personal discord, where i post my projects updates."  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="My personal discord, where i post my projects updates."  />
   </a>
     <a href="mailto:richardkauapl@gmail.com?" target="_blank"><img align="center">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="Reach-me at: richardkauapl@gmail.com"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Reach-me at: richardkauapl@gmail.com"  />
   </a>
 
 
