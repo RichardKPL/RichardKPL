@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com;in/richardkpl" target="_blank"><img align="center">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</img></a>
+  <a href="https://linkedin.com;in/richardkpl" target="_blank"><img src="![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"align="center"></img></a>
   <a href="https://discord.gg/6d7wjNbZMN" target="_blank"><img align="center"></img></a>
   <a href="mailto:richardkauapl@gmail.com" target="_blank"><img align="center"></a>
 </div>
