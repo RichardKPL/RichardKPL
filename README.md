@@ -17,7 +17,7 @@
   <a href="https://discord.gg/6d7wjNbZMN" target="_blank"><img align="center">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
-    <a href="mailto:richardkauapl@gmail.com" target="_blank"><img align="center">
+    <a href="mailto:richardkauapl@gmail.com?" target="_blank"><img align="center">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
 
