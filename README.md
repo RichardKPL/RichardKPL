@@ -1,4 +1,4 @@
-<h2 align="left">alert("Hello World! My name is Richard and i'm a programmer student from Brazil <img src="https://imgur.com/gNDaoFN.png" width="25px" height="25px">")</img></h2>
+<h2 align="left">alert("Hello World! My name is Richard and I'm a programming student from Brazil <img src="https://imgur.com/gNDaoFN.png" width="25px" height="25px">")</img></h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">About Me:<br><br>I'm am 20 years old, currently living in Brazil, intermediate English level, currently i'm studying JS, HTML andCSS in Oracle One, partnered with Alura Cursos Online.<br><br>In my free time i love to play videogames, and watch movies like HP, LOTR, Star Wars and TV Series like Stargate or chilling with my Motorcycle.</p>
+<p align="left">About Me:<br><br>I'm 20 years old, currently living in Brazil, with an intermediate English level. I'm currently studying JS, HTML and CSS through Oracle One, in partnership with Alura Cursos Online.<br><br>In my free time, I love playing video games, watching movies like HP, LOTR and Star Wars, watching TV series like Stargate, and relaxing with my motorcycle.</p>
 
 ###
 
@@ -41,7 +41,7 @@
 <h2 align="center">My portfolio:</h2>
 
 <br clear="both">
-<h4 align="left">Currently, i don't have any project to show.</h4>
+<h4 align="left">Currently, I don't have any projects to show.</h4>
 
 <br clear="both">
 
@@ -76,7 +76,7 @@
 </div>
 
 <br clear="both">
-<h4 align="left">Softwares</h4>
+<h4 align="left">Software</h4>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
