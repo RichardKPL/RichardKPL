@@ -1,4 +1,4 @@
-<h2 align="left">alert("Hello World! My name is Richard and I'm a programming student from Brazil <img src="https://imgur.com/gNDaoFN.png" width="25px" height="25px">")</img></h2>
+<h2 align="left">alert("Hello World! My name is Richard and I'm a programming student from Brazil <img src="https://imgur.com/gNDaoFN.png" width="25px" height="25px" alt="Brazil flag">")</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/richardkpl" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&flat" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.gg/6d7wjNbZMN" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" height="210" width="46%" src="https://imgur.com/4quVZcv.gif"  />
+<img align="right" height="210" width="46%" src="https://imgur.com/4quVZcv.gif" alt="Decorative animation" />
 
 ###
 
@@ -46,7 +46,7 @@
 <br clear="both">
 
 <div align="left">
-  <img height="500" src="https://imgur.com/Gr00D1Z.gif"  />
+  <img height="500" src="https://imgur.com/Gr00D1Z.gif" alt="Decorative animation" />
 </div>
 
 <br clear="both">
